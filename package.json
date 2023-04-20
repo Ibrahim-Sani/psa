@@ -1,0 +1,9 @@
+{
+  "name": "psa",
+  "version": "1",
+  "description": "photo_sharing_app",
+  "main": "index.js",
+  "repository": "https://github.com/Ibrahim-Sani/psa.git",
+  "author": "Decago <deca@DeveNinja.local>",
+  "license": "MIT"
+}
